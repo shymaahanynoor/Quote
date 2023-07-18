@@ -1,0 +1,25 @@
+
+
+
+h1{
+    font-size: 80px;
+    
+    font-family: Impact;
+
+}
+
+p{
+    font-size: 30px;
+    margin: 40px 0px;
+    font-weight: 500;
+  
+}
+button{
+    margin-bottom: 40px;
+    padding: 25px 85px;
+    color: #fff;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
